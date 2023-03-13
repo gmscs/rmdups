@@ -1,2 +1,2 @@
 # rmdups
-Delete duplicate files in a folder
+Small python script to delete duplicate files in a folder.
